@@ -1,5 +1,7 @@
 ## I'm Nathan 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanscriptor)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/nathanscriptor/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanscriptor&repo=github-readme-stats&theme=dracula" />
 </a>
