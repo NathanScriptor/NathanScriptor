@@ -6,7 +6,7 @@ I'm a self-taught passionate BackEnd developer from Vietnam!
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nathanscriptor&theme=dracula&rank_icon=github&include_all_commits=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nathanscriptor&theme=dracula&rank_icon=github&include_all_commits=true&card_width=300" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanscriptor&layout=compact&langs_count=6&card_width=260&theme=dracula&hide=css,html" />
