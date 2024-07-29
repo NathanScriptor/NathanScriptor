@@ -1,9 +1,9 @@
 ## I'm Nathan 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/nathanscriptor/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanscriptor&repo=github-readme-stats&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/nathanscriptor/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanscriptor&repo=convoychat&theme=dracula" />
 </a>
 
