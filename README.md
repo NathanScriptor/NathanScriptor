@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan Tran</h1>
 <h3 align="center">A passionate backend developer from Vietnam !</h3>
 
+- 🔭 I’m currently working on [Expense Sharing API](https://github.com/NathanScriptor/ExpenseSharingAPI)
 - 🌱 I’m currently learning **NodeJS**
 
 <h3 align="left">Languages and Tools:</h3>
