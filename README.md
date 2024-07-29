@@ -1,9 +1,11 @@
 ## I'm Nathan 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nathanscriptor&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nathanscriptor&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanscriptor&layout=compact&theme=dracula#gh-dark-mode-only))
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanscriptor&repo=github-readme-stats&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanscriptor&repo=convoychat&theme=dracula" />
+</a>
 
 <!--
 **NathanScriptor/nathanscriptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
