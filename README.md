@@ -2,11 +2,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanscriptor)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/nathanscriptor/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanscriptor&repo=github-readme-stats&theme=dracula" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nathanscriptor" />
 </a>
-<a href="https://github.com/nathanscriptor/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanscriptor&repo=convoychat&theme=dracula" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanscriptor&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
