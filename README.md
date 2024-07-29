@@ -1,5 +1,7 @@
 ## I'm Nathan 👋
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Nathan. I code!" src="./assets/gh-readme-header.png" /></a></p>
+
 I'm a self-taught passionate BackEnd developer from Vietnam!
 
 <br />
