@@ -1,5 +1,7 @@
 ## I'm Nathan 👋
 
+I'm a self-taught passionate BackEnd developer from Vietnam !
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nathanscriptor&theme=dracula&rank_icon=github&include_all_commits=true" />
 </a>
