@@ -1,4 +1,4 @@
-## I'm Nathan ! I code 👋
+## I'm Nathan 👋 I code 👋
 
 I'm a self-taught passionate BackEnd developer from Vietnam!
 
