@@ -2,7 +2,8 @@
 <h3 align="center">A passionate backend developer from Vietnam !</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Expense Sharing API](https://github.com/NathanScriptor/ExpenseSharingAPI)<br>- 🌱 I’m currently learning **NodeJS**
+- 🔭 I’m currently working on [Expense Sharing API](https://github.com/NathanScriptor/ExpenseSharingAPI)<br>
+- 🌱 I’m currently learning **NodeJS**
 
 
 ## 🌐 Socials:
