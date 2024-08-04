@@ -20,11 +20,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanScriptor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=css" />
 </a>
 </div>
-<div>
-  ![.](https://github-readme-streak-stats.herokuapp.com/?user=NathanScriptor&theme=highcontrast&hide_border=false)<br/>
-</div>
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=NathanScriptor&theme=highcontrast&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
+![](https://github-readme-streak-stats.herokuapp.com/?user=NathanScriptor&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=NathanScriptor&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
 
 ---
