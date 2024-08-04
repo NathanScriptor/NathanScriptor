@@ -21,7 +21,7 @@
 </a>
 </div>
 <div>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=NathanScriptor&theme=highcontrast&hide_border=false)<br/>
+  ![.](https://github-readme-streak-stats.herokuapp.com/?user=NathanScriptor&theme=highcontrast&hide_border=false)<br/>
 </div>
 
 ## 🏆 GitHub Trophies
