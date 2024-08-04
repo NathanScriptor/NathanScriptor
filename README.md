@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Vietnam !</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Expense Sharing API](https://github.com/NathanScriptor/ExpenseSharingAPI)<br>
+- 🔭 I’m currently working on [ExpenseSharingAPI](https://github.com/namkhanh307/ExpenseSharingAPI)<br>
 - 🌱 I’m currently learning **NodeJS**
 
 
@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NathanScriptor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NathanScriptor&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanScriptor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanScriptor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NathanScriptor&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
