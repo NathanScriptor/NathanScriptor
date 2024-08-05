@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on [ExpenseSharingAPI](https://github.com/namkhanh307/ExpenseSharingAPI)<br>
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS Express**
 
 
 ## 🌐 Socials:
