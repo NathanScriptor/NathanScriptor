@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Vietnam !</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [ExpenseSharingAPI](https://github.com/namkhanh307/ExpenseSharingAPI)<br>
+- 🔭 I’m currently working on [ExpenseSharingAPI]<br>
 - 🌱 I’m currently learning **NodeJS Express**
 
 
